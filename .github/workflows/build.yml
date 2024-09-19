@@ -48,5 +48,5 @@ jobs:
     - name: upload ipa
       uses: actions/upload-artifact@v4
       with:
-        name: 'BlinkShell'
+        name: 'BlinkShell2'
         path: ~/Blink.ipa
